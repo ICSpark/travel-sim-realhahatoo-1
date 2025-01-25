@@ -77,7 +77,7 @@ Type ```link``` and press tab to create a link tag. In the ```href``` quotations
 * las-vegas.html
 * antarctica.html
 
-4. After that, go back to the original index.html file, and in the ```href``` attribute for each of the 5 portals, link them to a different location based on the html files you created in the last step. For example:
+4. After that, go bthe original index.html file, ack to and in the ```href``` attribute for each of the 5 portals, link them to a different location based on the html files you created in the last step. For example:
    * you can set the ```href``` attribute of the first portal to link to paris.html, second to rome.html, and so on and so forth.
 
    ```<a href="paris.html"><img src="assets/portal.gif" alt="" class="portals"></a>```
